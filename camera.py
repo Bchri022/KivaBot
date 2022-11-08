@@ -16,5 +16,4 @@ class Camera:
         #Method to make camera turn on and off to capture photo
         ""
         def go(self):
-            print("Turn the Camera off")
-            
+            print("Turn the Camera off")   

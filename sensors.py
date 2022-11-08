@@ -1,7 +1,8 @@
 """
 File: #containing Sensors and MotionSensor classes
 """ 
-class #sensors:
+class sensors:
+
     def __init__(self, resolution, zoom, night vision, has flash) -> None:
         self._redlight = "redlight" #self. makes it an attribute
         self._shape = "shape" # _shape says location should be private
