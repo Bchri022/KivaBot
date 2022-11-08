@@ -1,9 +1,9 @@
 ""
 #This is the camera class 
 ""
-class Camera:
+class camera:
 
-    def __init__(self, resolution, zoom, night vision, has flash) -> None:
+    def __init__(self, resolution, zoom, nightvision, hasflash) -> None:
         self._resolution = resolution #self. makes it an attribute
         self._zoom = zoom # _zoom says location should be private
         self._nightvision = "#nightvision"
