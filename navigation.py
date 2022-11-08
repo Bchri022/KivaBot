@@ -10,8 +10,10 @@ class Navigation:
 
         def  stop(self):
              print("Make the robot Stop")
+             
         ""
         #Method to make the robot stop/go when robots around are operating
+        ""
         def go(self):
             print("Make the robot Go")
     
